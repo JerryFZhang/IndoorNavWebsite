@@ -16,6 +16,11 @@ Bilt based on Photon by HTML5 UP
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
 
+#Todo
+- Social media links.
+- Co-founder information.
+- Content validation and improvements.
+
 # Author
 Fengwei Jerry Zhang(zhang96)
 
