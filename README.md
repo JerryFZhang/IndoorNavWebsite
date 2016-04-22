@@ -17,7 +17,6 @@ Bilt based on Photon by HTML5 UP
 		Skel (skel.io)
 
 #Todo
-- Social media links.
 - Co-founder information.
 - Content validation and improvements.
 
